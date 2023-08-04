@@ -18,4 +18,4 @@
 
  <br/>
 
-  ![snake gif](https://github.com/KallelBrg/KallelBrg/blob/output/github-contribution-grid-snake.gif)
+  ![snake gif](https://github.com/sophia-luna/sophia-luna/blob/output/github-contribution-grid-snake.gif)
